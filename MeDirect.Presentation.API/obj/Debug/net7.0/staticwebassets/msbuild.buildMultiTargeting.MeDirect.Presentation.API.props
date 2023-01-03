@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MeDirect.Presentation.API.props" />
+</Project>

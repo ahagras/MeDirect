@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MeDirect.Presentation.API.props" />
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\obj\Debug\net7.0\MeDirect.Core.Application.csproj.AssemblyReference.cache
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\obj\Debug\net7.0\MeDirect.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\obj\Debug\net7.0\MeDirect.Core.Application.AssemblyInfoInputs.cache
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\obj\Debug\net7.0\MeDirect.Core.Application.AssemblyInfo.cs
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\obj\Debug\net7.0\MeDirect.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\bin\Debug\net7.0\MeDirect.Core.Application.deps.json
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\bin\Debug\net7.0\MeDirect.Core.Application.dll
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\bin\Debug\net7.0\MeDirect.Core.Application.pdb
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\bin\Debug\net7.0\MeDirect.Core.Domain.dll
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\bin\Debug\net7.0\MeDirect.Core.Domain.pdb
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\obj\Debug\net7.0\MeDirect.Core.Application.csproj.CopyComplete
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\obj\Debug\net7.0\MeDirect.Core.Application.dll
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\obj\Debug\net7.0\refint\MeDirect.Core.Application.dll
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\obj\Debug\net7.0\MeDirect.Core.Application.pdb
+C:\Users\aabdelgilil\source\repos\MeDirect\MeDirect.Core.Application\obj\Debug\net7.0\ref\MeDirect.Core.Application.dll

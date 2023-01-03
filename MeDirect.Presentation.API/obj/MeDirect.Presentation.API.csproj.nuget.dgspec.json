@@ -1,0 +1,300 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Presentation.API\\MeDirect.Presentation.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Application\\MeDirect.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Application\\MeDirect.Core.Application.csproj",
+        "projectName": "MeDirect.Core.Application",
+        "projectPath": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Application\\MeDirect.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\aabdelgilil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aabdelgilil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Domain\\MeDirect.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Domain\\MeDirect.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Domain\\MeDirect.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Domain\\MeDirect.Core.Domain.csproj",
+        "projectName": "MeDirect.Core.Domain",
+        "projectPath": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Domain\\MeDirect.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\aabdelgilil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aabdelgilil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Inrastructure.Presistence\\MeDirect.Inrastructure.Presistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Inrastructure.Presistence\\MeDirect.Inrastructure.Presistence.csproj",
+        "projectName": "MeDirect.Inrastructure.Presistence",
+        "projectPath": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Inrastructure.Presistence\\MeDirect.Inrastructure.Presistence.csproj",
+        "packagesPath": "C:\\Users\\aabdelgilil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Inrastructure.Presistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aabdelgilil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Domain\\MeDirect.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Domain\\MeDirect.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Presentation.API\\MeDirect.Presentation.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Presentation.API\\MeDirect.Presentation.API.csproj",
+        "projectName": "MeDirect.Presentation.API",
+        "projectPath": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Presentation.API\\MeDirect.Presentation.API.csproj",
+        "packagesPath": "C:\\Users\\aabdelgilil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Presentation.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aabdelgilil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Application\\MeDirect.Core.Application.csproj": {
+                "projectPath": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Core.Application\\MeDirect.Core.Application.csproj"
+              },
+              "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Inrastructure.Presistence\\MeDirect.Inrastructure.Presistence.csproj": {
+                "projectPath": "C:\\Users\\aabdelgilil\\source\\repos\\MeDirect\\MeDirect.Inrastructure.Presistence\\MeDirect.Inrastructure.Presistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
